@@ -23,7 +23,7 @@ To run program:
 
 	4-	Then all of the algorithms will run and the information will be printed
 		to the console. The information includes the name of the sorting algorithm,
-		the duration in microseconds that the algorithm took to run, and the
+		the duration in nanoseconds that the algorithm took to run, and the
 		result of the sorted array.
 
 	5-	Choose to exit the program, or select another data type and run the

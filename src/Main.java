@@ -77,27 +77,27 @@ public class Main {
 
 				//Print info
 				System.out.println("1) InsertionSort:\n");
-				System.out.println("\tRuntime: " + array1RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array1RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray1);
 				System.out.println("2) Quicksort:\n");
-				System.out.println("\tRuntime: " + array2RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array2RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray2);
 				System.out.println("3) Quicksort switching to InsertionSort on arrays of size less than " + cutoff + ":\n");
-				System.out.println("\tRuntime: " + array3RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array3RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray3);
 				System.out.println("4) Quicksort Median of 3 and switching to Insertion sort on arrays of size less than " + cutoff + ":\n");
-				System.out.println("\tRuntime: " + array4RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array4RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray4);
 				System.out.println("5) Mergesort:\n");
-				System.out.println("\tRuntime: " + array5RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array5RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray5);
 				System.out.println("6) HeapSort:\n");
-				System.out.println("\tRuntime: " + array6RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array6RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray6);
 
@@ -155,27 +155,27 @@ public class Main {
 
 				//Print info
 				System.out.println("1) InsertionSort:\n");
-				System.out.println("\tRuntime: " + array1RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array1RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray1);
 				System.out.println("2) Quicksort:\n");
-				System.out.println("\tRuntime: " + array2RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array2RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray2);
 				System.out.println("3) Quicksort switching to InsertionSort on arrays of size less than " + cutoff + ":\n");
-				System.out.println("\tRuntime: " + array3RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array3RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray3);
 				System.out.println("4) Quicksort Median of 3 and switching to Insertion sort on arrays of size less than " + cutoff + ":\n");
-				System.out.println("\tRuntime: " + array4RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array4RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray4);
 				System.out.println("5) Mergesort:\n");
-				System.out.println("\tRuntime: " + array5RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array5RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray5);
 				System.out.println("6) HeapSort:\n");
-				System.out.println("\tRuntime: " + array6RunTime + " microseconds");
+				System.out.println("\tRuntime: " + array6RunTime + " nanoseconds");
 				System.out.print("\tResults: ");
 				printer.printArray(sortedArray6);
 				
