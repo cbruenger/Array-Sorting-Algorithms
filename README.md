@@ -22,8 +22,7 @@ To run program:
 		ONLY by commas. DO NOT INSERT ANY WHITE SPACE! 
 
 	4-	Then all of the algorithms will run and the information will be printed
-		to the console numbered as they are listed in the homework assignment
-		directions. The information includes the name of the sorting algorithm,
+		to the console. The information includes the name of the sorting algorithm,
 		the duration in microseconds that the algorithm took to run, and the
 		result of the sorted array.
 
